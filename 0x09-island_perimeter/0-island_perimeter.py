@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Island Perimeter:
-	returns the perimeter of the island given in the grid
+	returns the perimeter of the island in the grid
 """
 
 
